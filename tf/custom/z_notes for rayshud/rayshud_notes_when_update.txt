@@ -1,0 +1,25 @@
+//Customizations
+Copy the following files from rayshud-master\#customizations to rayshud-master\#customizations\_enabled
+hudplayerclass-left.res
+hudplayerhealth-cross.res
+
+//transparent viewmodels
+rayshud-master\scripts\hudlayout-base.res
+Set TransparentViewmodel:
+Enabled 1
+Visible 1
+
+//Match HUD Names
+rayshud-master\resource\ui\hudmatchstatus-base.res
+Search for playername and add the following:
+"enabled"		"1"
+"visible"		"1"
+"labelText"		"%playername%"
+
+//32 Player Fix
+rayshud-master\resource\ui\scoreboard-base.res
+Search for BluePlayerList and RedPlayerList and change tall to 270
+
+//PLR Fix
+rayshud-master\resource\ui\objectivestatusmultipleescort.res
+Search for ObjectiveStatusMultipleEscort and change ypos to 0
