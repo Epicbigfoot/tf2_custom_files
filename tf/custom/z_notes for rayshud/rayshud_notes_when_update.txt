@@ -19,7 +19,3 @@ Search for playername and add the following:
 //32 Player Fix
 rayshud-master\resource\ui\scoreboard-base.res
 Search for BluePlayerList and RedPlayerList and change tall to 270
-
-//PLR Fix
-rayshud-master\resource\ui\objectivestatusmultipleescort.res
-Search for ObjectiveStatusMultipleEscort and change ypos to 0
