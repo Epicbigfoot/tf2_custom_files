@@ -257,7 +257,20 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"WinReasonLabel"
-		"xpos"			"9999"
+		"font"			"ScoreboardVerySmall"
+		"xpos"			"15"
+		"ypos"			"89"
+		"zpos"			"1"
+		"wide"			"268"
+		"tall"			"30"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%WinReasonLabel%"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"centerwrap"	"0"
 	}
 	"DetailsLabel"
 	{
