@@ -19,3 +19,10 @@ Search for playername and add the following:
 //32 Player Fix
 rayshud-master\resource\ui\scoreboard-base.res
 Search for BluePlayerList and RedPlayerList and change tall to 270
+
+//CTF Old rayshud style notification
+Extract notifications folder from base hud copy to rayshud-master\resource\ui
+rayshud-master\resource\ui\notifications\base_notification.res
+Notification_Background change visible / enabled to 0
+Notification_Label change font to Cerbetica16
+
