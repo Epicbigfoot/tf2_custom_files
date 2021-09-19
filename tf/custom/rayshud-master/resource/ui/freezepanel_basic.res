@@ -117,7 +117,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"labelText"			"%killername%"
-			"textAlignment"		"center"
+			//"textAlignment"		"center"
 			"fgcolor"			"TanLight"
 		}
 
@@ -125,7 +125,7 @@
 		{
 			"ControlName"		"CAvatarImagePanel"
 			"fieldName"			"AvatarImage"
-			"xpos"				"0"
+			"xpos"				"25"
 			"ypos"				"15"
 			"zpos"				"0"
 			"wide"				"20"

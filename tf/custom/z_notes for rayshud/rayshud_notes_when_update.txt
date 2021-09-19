@@ -51,3 +51,5 @@ rayshud-master\resource\ui\winpanel-base.res
 //Freezecam Panel
 rayshud-master\resource\ui\FreezePanel_Basic.res
 FreezePanelBase change ypos to "c-100"
+FreezeLabelKiller disable center
+AvatarImage xpos change to 25
