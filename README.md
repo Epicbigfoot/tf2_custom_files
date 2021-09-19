@@ -25,3 +25,5 @@ Repository of my tf2 config and custom files
     * Killsound: Fortress Forever Killsound
   * Fully Subtitled Class Voicelines
     * TF2 - Another Closed Captions Project! (https://gamebanana.com/mods/25151)
+* Launch Options
+ * -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
