@@ -23,7 +23,6 @@ Repository of my tf2 config and custom files
   * Hitsounds
     * Hitsound: Quake 3 Arena Hitsound
     * Killsound: Fortress Forever Killsound
-  * Fully Subtitled Class Voicelines
-    * TF2 - Another Closed Captions Project! (https://gamebanana.com/mods/25151)
+  * clovervidia's captions
 * Launch Options
   * -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
