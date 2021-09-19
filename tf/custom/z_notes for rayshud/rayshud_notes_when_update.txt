@@ -48,3 +48,6 @@ rayshud-master\resource\ui\winpanel-base.res
 		"centerwrap"	"0"
 	}
 	
+//Freezecam Panel
+rayshud-master\resource\ui\FreezePanel_Basic.res
+FreezePanelBase change ypos to "c-100"
