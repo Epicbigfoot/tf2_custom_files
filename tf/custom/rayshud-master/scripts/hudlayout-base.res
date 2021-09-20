@@ -602,16 +602,17 @@
 		"xpos"		"c-250"
 		"ypos"		"276"	[$WIN32]
 		"ypos"		"236"	[$X360]
+		"zpos"		"-255"
 		"wide"		"500"
 		"tall"		"136"	[$WIN32]
 		"tall"		"176"	[$X360]
 
 		"BgAlpha"			"128"
 
-		"GrowTime"			"0.25"
-		"ItemHiddenTime"	"0.2"
-		"ItemFadeInTime"	"0.15"
-		"ItemFadeOutTime"	"0.3"
+		"GrowTime"			"0"
+		"ItemHiddenTime"	"0"
+		"ItemFadeInTime"	"0"
+		"ItemFadeOutTime"	"0"
 		"topoffset"			"0"
 	}
 
