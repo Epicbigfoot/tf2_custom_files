@@ -16,6 +16,7 @@ Repository of my tf2 config and custom files
     * Old rayshud-style capture the flag alerts
     * Win reason in MVP Panel
     * Misc freezecam modifications to fix avatar / itempanel overlaping with HP
+	* Restored default TF2 subtitle box
   * Mastercomfig
     * Ultra Preset
     * No Tutorial Addon
@@ -23,6 +24,7 @@ Repository of my tf2 config and custom files
   * Hitsounds
     * Hitsound: Quake 3 Arena Hitsound
     * Killsound: Fortress Forever Killsound
-  * clovervidia's captions
+  * Fully Subtitled Class Voicelines
+    * TF2 - Another Closed Captions Project! (https://gamebanana.com/mods/25151)
 * Launch Options
-  * -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+  * -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -no_texture_stream -noquicktime
