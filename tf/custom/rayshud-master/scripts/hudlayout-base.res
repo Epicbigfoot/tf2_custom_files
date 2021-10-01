@@ -596,16 +596,16 @@
 
 	"HudCloseCaption"
 	{
-		"fieldName" "HudCloseCaption"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"c-250"
-		"ypos"		"276"	[$WIN32]
-		"ypos"		"236"	[$X360]
-		"zpos"		"-1"
-		"wide"		"500"
-		"tall"		"136"	[$WIN32]
-		"tall"		"176"	[$X360]
+		"fieldName" 		"HudCloseCaption"
+		"visible"			"1"
+		"enabled"			"1"
+		"xpos"				"c-250"
+		"ypos"				"276"	[$WIN32]
+		"ypos"				"236"	[$X360]
+		"zpos"				"-1"
+		"wide"				"500"
+		"tall"				"136"	[$WIN32]
+		"tall"				"176"	[$X360]
 
 		"BgAlpha"			"128"
 
