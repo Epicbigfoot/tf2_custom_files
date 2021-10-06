@@ -79,3 +79,6 @@ rayshud-master\scripts\hudlayout-base.res
 	}
 	
 Disable both closecaption files in rayshud-master\resource
+
+//Restore bold fonts
+Copy the old clientscheme_fonts.res in rayshud-master\resource\scheme
