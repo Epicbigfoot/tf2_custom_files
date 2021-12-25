@@ -32,15 +32,15 @@
 	//--------------------------------------------------------------
 	"TransparentViewmodel"
 	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TransparentViewmodel"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"-100"
-		"wide"				"f0"
-		"tall"				"480"
 		"visible"			"1"
 		"enabled"			"1"
+		"controlName"		"ImagePanel"
+		"fieldName"			"TransparentViewmodel"
+		"zpos"				"-100"
+		"xpos"				"0"
+		"ypos"				"0"
+		"wide"				"f0"
+		"tall"				"480"
 		"image"				"replay/thumbnails/transparent"
 		"scaleImage"		"1"
 	}
@@ -287,7 +287,7 @@
 		"visible" 				"0"
 		"enabled" 				"1"
 		"xpos"					"c-100"
-		"ypos"					"c135"
+		"ypos"					"c145"
 		"wide"					"600"
 		"tall"					"50"
 		"priority"				"40"
@@ -596,16 +596,16 @@
 
 	"HudCloseCaption"
 	{
-		"fieldName" 		"HudCloseCaption"
-		"visible"			"1"
-		"enabled"			"1"
-		"xpos"				"c-250"
-		"ypos"				"276"	[$WIN32]
-		"ypos"				"236"	[$X360]
-		"zpos"				"-1"
-		"wide"				"500"
-		"tall"				"136"	[$WIN32]
-		"tall"				"176"	[$X360]
+		"fieldName" "HudCloseCaption"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"c-250"
+		"ypos"		"276"	[$WIN32]
+		"ypos"		"236"	[$X360]
+		"zpos"		"-1"
+		"wide"		"500"
+		"tall"		"136"	[$WIN32]
+		"tall"		"176"	[$X360]
 
 		"BgAlpha"			"128"
 
@@ -767,7 +767,7 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"xpos"				"c-240"
-		"ypos"				"c60"
+		"ypos"				"c90"
 		"wide"				"480"
 		"tall"				"100"
 		"HintSize"			"1"
@@ -1015,10 +1015,10 @@
 		"fieldName"			"HudDemomanPipes"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"c-75"
-		"ypos"				"c25"
-		"wide"				"500"
-		"tall"				"500"
+		"xpos"				"0"
+		"ypos"				"0"
+		"wide"				"f0"
+		"tall"				"480"
 	}
 
 	"HudTeamGoal"
@@ -1129,7 +1129,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c-320"
-		"ypos"				"280"
+		"ypos"				"70"
 		"wide"				"640"
 		"tall"				"100"
 	}
@@ -1196,10 +1196,10 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"HudAchievementTracker"
 		"xpos"				"5"
-		"NormalY"			"300"
-		"EngineerY"			"330"
+		"NormalY"			"335"
+		"EngineerY"			"335"
 		"zpos"				"-10"
-		"wide"				"200"
+		"wide"				"f0"
 		"tall"				"f0"
 		"visible"			"1"
 		"enabled"			"1"
@@ -1222,10 +1222,10 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"xpos"				"r200"
-		"ypos"				"c0"
+		"ypos"				"rs1"
 		"zpos"				"10"
-		"wide"				"300"
-		"tall"				"900"
+		"wide"				"270"
+		"tall"				"f0"
 	}
 
 	"HudTFCrosshair"
