@@ -47,12 +47,6 @@ rayshud-master\resource\ui\winpanel-base.res
 		"brighttext"	"0"
 		"centerwrap"	"0"
 	}
-	
-//Freezecam Panel
-rayshud-master\resource\ui\FreezePanel_Basic.res
-FreezePanelBase change ypos to "c-100"
-FreezeLabelKiller disable center
-AvatarImage xpos change to 25
 
 //Restore default tf2 subtitles
 rayshud-master\scripts\hudlayout-base.res

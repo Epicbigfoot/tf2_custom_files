@@ -20,7 +20,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName"				"FreezePanelBase"
 		"xpos"					"c-125"
-		"ypos"					"c-100"
+		"ypos"					"c80"
 		"wide"					"250"
 		"tall"					"38"
 		"visible"				"1"
@@ -117,7 +117,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"labelText"			"%killername%"
-			//"textAlignment"		"center"
+			"textAlignment"		"center"
 			"fgcolor"			"TanLight"
 		}
 
@@ -125,7 +125,7 @@
 		{
 			"ControlName"		"CAvatarImagePanel"
 			"fieldName"			"AvatarImage"
-			"xpos"				"25"
+			"xpos"				"45"
 			"ypos"				"15"
 			"zpos"				"0"
 			"wide"				"20"
