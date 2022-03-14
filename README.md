@@ -6,6 +6,7 @@ Repository of my tf2 config and custom files
   * Crouch jump Script
   * Building Script
   * Eureka Effect Script
+  * Stabby Disguise Script
 * custom
   * rayshud
     * Left sided playermodel
