@@ -4,10 +4,10 @@ Repository of my tf2 config and custom files
 * cfg
   * Scoreboard with Netgraph
   * Crouch jump Script
+  * Automatic Viewmodel Script
   * Building Script
   * Eureka Effect Script
-  * Stabby Disguise Script
-  * Automatic Viewmodel Script
+  * Stabby Disguise and Viewmodel Script
 * custom
   * rayshud
     * Left sided playermodel
