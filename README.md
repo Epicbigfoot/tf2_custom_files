@@ -7,6 +7,7 @@ Repository of my tf2 config and custom files
   * Building Script
   * Eureka Effect Script
   * Stabby Disguise Script
+  * Automatic Viewmodel Script
 * custom
   * rayshud
     * Left sided playermodel
