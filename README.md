@@ -17,7 +17,6 @@ Repository of my tf2 config and custom files
     * 32 Player Scoreboard
     * Old rayshud-style capture the flag alerts
     * Win reason in MVP Panel
-    * Misc freezecam modifications to fix avatar / itempanel overlaping with HP
 	* Restored default TF2 subtitle box
   * Mastercomfig
     * Ultra Preset
