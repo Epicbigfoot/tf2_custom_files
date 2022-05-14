@@ -4,11 +4,6 @@ Repository of my tf2 config and custom files (for Steam Deck)
 Controller-Config: steam://controllerconfig/440/2807969288  (Based on Solarlight's Dualsense Config)
 ## List of mods
 * cfg
-  * Scoreboard with Netgraph
-  * Crouch jump Script
-  * Building Script
-  * Eureka Effect Script
-  * Stabby Disguise Script
 * custom
   * Mastercomfig
     * Medium Preset
@@ -17,5 +12,6 @@ Controller-Config: steam://controllerconfig/440/2807969288  (Based on Solarlight
   * Hitsounds
     * Hitsound: Quake 3 Arena Hitsound
     * Killsound: Fortress Forever Killsound
+  * Transparent Viewmodels
 * Launch Options
   * -novid -nohltv -particles 1 -precachefontchars -noquicktime
