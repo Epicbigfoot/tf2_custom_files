@@ -1,7 +1,7 @@
 # tf2_custom_files (for Steam Deck)
 Repository of my tf2 config and custom files (for Steam Deck)
 
-Controller-Config: steam://controllerconfig/440/2807969288  (Based on Solarlight's Dualsense Config)
+Controller-Config: steam://controllerconfig/440/2807979259  (Based on Solarlight's Dualsense Config)
 ## List of mods
 * cfg
   * Scoreboard with Netgraph
